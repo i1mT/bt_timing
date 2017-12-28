@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">定时关闭蓝牙</string>
+    <string name="_after">分钟之后关闭蓝牙</string>
+    <string name="set_time">设置</string>
+</resources>
